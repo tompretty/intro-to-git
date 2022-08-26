@@ -29,3 +29,13 @@ But at this point `git` is the most popular (and best!).
 - snapshots
 
 ## Exercises
+
+1. Make sure you have `git` installed locally
+2. Check out the repository locally and have a look around the files
+3. Install a python virtual environment and try and run the tests locally
+4. Now let's write a new test! Add in the optional `last_name` parameter and write a test (bonus points for doing it TDD)
+5. Check out a branch and commit that change
+6. Push that branch up to the remote repo and create a PR
+7. Merge that in after approval
+8. Clean up - pull down the new main branch and delete your local feature branch
+9. Tada! You've added a new feature like a pro!
