@@ -39,3 +39,14 @@ But at this point `git` is the most popular (and best!).
 7. Merge that in after approval
 8. Clean up - pull down the new main branch and delete your local feature branch
 9. Tada! You've added a new feature like a pro!
+
+## Extra exercises
+
+1. Add a new failing test for the `salutation` feature
+2. Ahh it's lunchtime, but we don't want to leave our code uncommited. Just create a wip commit and push it up
+3. We've come back from lunch let's finish the feature and push it up
+4. Create a PR
+5. Before merging this, we want to clean up our history (we don't want messy wip commits). We can do an interactive rebase to squash our two commits into one
+6. Push that up (we'll need to do a force push)
+7. Merge that in and do the same clean up as before
+8. Tada! Another feature - and we made sure to maintain a clean git history in the process too!
